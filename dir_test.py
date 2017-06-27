@@ -1,5 +1,5 @@
 # Script Name		: dir_test.py
-# Author				: Craig Richards
+# Author				: Craig Richards,biansutao
 # Created				: 29th November 2011
 # Last Modified		:
 # Version				: 1.0
